@@ -19,13 +19,13 @@
     <preference name="disable-cursor" value="false" />
     <preference name="android-minSdkVersion" value="14" />
     <preference name="android-installLocation" value="auto" />
-    <gap:plugin name="org.apache.cordova.battery-status" src="npm" />
+    <!--<gap:plugin name="org.apache.cordova.battery-status" src="npm" />
     <gap:plugin name="org.apache.cordova.camera" src="npm" />
     <gap:plugin name="org.apache.cordova.media-capture" src="npm" />
     <gap:plugin name="org.apache.cordova.console" src="npm" />
-    <gap:plugin name="org.apache.cordova.contacts" src="npm" />
+    <gap:plugin name="org.apache.cordova.contacts" src="npm" />-->
     <gap:plugin name="org.apache.cordova.device" src="npm" />
-    <gap:plugin name="org.apache.cordova.device-motion" src="npm" />
+    <!--<gap:plugin name="org.apache.cordova.device-motion" src="npm" />
     <gap:plugin name="org.apache.cordova.device-orientation" src="npm" />
     <gap:plugin name="org.apache.cordova.dialogs" src="npm" />
     <gap:plugin name="org.apache.cordova.file" src="npm" />
@@ -36,7 +36,7 @@
     <gap:plugin name="org.apache.cordova.media" src="npm" />
     <gap:plugin name="org.apache.cordova.network-information" src="npm" />
     <gap:plugin name="org.apache.cordova.splashscreen" src="npm" />
-    <gap:plugin name="org.apache.cordova.vibration" src="npm" />
+    <gap:plugin name="org.apache.cordova.vibration" src="npm" />-->
     <icon src="icon.png" />
     <icon gap:platform="android" gap:qualifier="ldpi" src="www/res/icon/android/icon-36-ldpi.png" />
     <icon gap:platform="android" gap:qualifier="mdpi" src="www/res/icon/android/icon-48-mdpi.png" />
