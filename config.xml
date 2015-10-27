@@ -64,6 +64,18 @@
     <gap:splash gap:platform="winphone" src="www/res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
     <plugin name="cordova-plugin-whitelist" version="1" />
+    <plugin name="org.apache.cordova.device-motion" src="npm" />
+    <plugin name="org.apache.cordova.device-orientation" src="npm" />
+    <plugin name="org.apache.cordova.dialogs" src="npm" />
+    <plugin name="org.apache.cordova.file" src="npm" />
+    <plugin name="org.apache.cordova.file-transfer" src="npm" />
+    <plugin name="org.apache.cordova.geolocation" src="npm" />
+    <plugin name="org.apache.cordova.globalization" src="npm" />
+    <plugin name="org.apache.cordova.inappbrowser" src="npm" />
+    <plugin name="org.apache.cordova.media" src="npm" />
+    <plugin name="org.apache.cordova.network-information" src="npm" />
+    <plugin name="org.apache.cordova.splashscreen" src="npm" />
+    <plugin name="org.apache.cordova.vibration" src="npm" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
